@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 Hello, My name is Rafael, 23 years with 6 years of experience.
-
 I love linux, I'm a web developer.
-
 I love the linux terminal, because it,
-
 I develop cli applications for linux.
 
 ### I am interested in:
