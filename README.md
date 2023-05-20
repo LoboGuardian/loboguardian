@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-```{r,echo=TRUE,results="markup"}
-x=1:10
-x
-sqrt(x)
-```
-```
-6 years of experience.
+Since 2016.
 I love linux, I'm a web developer.
 I love the linux terminal, because it,
 I develop cli applications for linux.
