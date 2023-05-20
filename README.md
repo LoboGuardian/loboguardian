@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-Hello, My name is Rafael, 23 years with 6 years of experience.
+```{r,echo=TRUE,results="markup"}
+x=1:10
+x
+sqrt(x)
+```
+```
+6 years of experience.
 I love linux, I'm a web developer.
 I love the linux terminal, because it,
 I develop cli applications for linux.
