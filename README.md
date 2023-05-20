@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Since 2016.
-I love linux, I'm a web developer.
-I love the linux terminal, because it,
-I develop cli applications for linux.
+Since 2016. On this world
+- I love linux, I'm a web developer.
+- I love the linux terminal, because it,
+- I develop cli applications for linux.
 
 ### I am interested in:
 
