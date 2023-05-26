@@ -1,15 +1,14 @@
-### 👋 Hi there, I'm Rafael also know as loboguardian <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" />
+### 👋 Hi there, I'm Rafael also know as loboguardian 🐺
+
+![GitHub followers](https://img.shields.io/github/followers/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge)
 
 <!-- <p align="center">
 <a href="#"><img src="#" height="100%" width="100%" /></a>
 </p> -->
 
-### 📅 Since 2016. On tech world
-- I love linux, I'm a web developer.
-- I love the linux terminal, because it,
-- I develop cli applications for linux.
+I have been a professional telecommunications engineer for more than 1 years.
 
-### 💻Languages and Tools:
+## 💻Languages and Tools:
 
 #### Web
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://html.spec.whatwg.org/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://www.w3.org/TR/CSS/#css) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&log=react&logoColor=white&labelColor=101010)](https://reactjs.org/)
@@ -21,7 +20,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.linux.org/) [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
 
 
-### 📌 Arrange a meeting
+## 📌 Arrange a meeting
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
 
