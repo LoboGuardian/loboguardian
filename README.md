@@ -41,6 +41,9 @@ I have been a professional telecommunications engineer for more than 1 years.
 
 ## 🧮 Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
+[![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=monokai)](https://github.com/loboguardian/github-readme-stats)
+[![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=nord)](https://github.com/loboguardian/github-readme-stats)
+[![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=github_dark)](https://github.com/loboguardian/github-readme-stats)
 
 ## 📝 Most used languages
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
