@@ -32,7 +32,7 @@ I have been a professional telecommunications engineer for more than 1 years.
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&labelColor=101010)](opensuse.org/)
 
 #### Windows
-[![Windows 7](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/lifecycle/products/windows-7)
+[![Windows 7](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windows7&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/lifecycle/products/windows-7)
 [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/software-download/windows10)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/windows/windows-11)
 
@@ -41,9 +41,6 @@ I have been a professional telecommunications engineer for more than 1 years.
 
 ## 🧮 Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
-[![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=monokai)](https://github.com/loboguardian/github-readme-stats)
-[![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=nord)](https://github.com/loboguardian/github-readme-stats)
-[![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=github_dark)](https://github.com/loboguardian/github-readme-stats)
 
 ## 📝 Most used languages
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
