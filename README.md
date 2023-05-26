@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Rafael also know as loboguardian (https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111)
+### 👋 Hi there, I'm Rafael also know as loboguardian ![emote](https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111)
 
 <!-- <p align="center">
 <a href="#"><img src="#" height="100%" width="100%" /></a>
