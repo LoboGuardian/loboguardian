@@ -28,6 +28,18 @@ I have been a professional telecommunications engineer for more than 1 years.
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](https://fedoraproject.org/)
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&labelColor=101010)](opensuse.org/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/windows/windows-11)[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://www.android.com/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=101010)](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&labelColor=101010)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPuqK0xJP_AhWJpYQIHYqlB44QFnoECAkQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fedge%2Fdownload&usg=AOvVaw10jbjeqGp6-BwezjV70LDR)
+
+<a title="Developers for Firefox"
+   rel="nofollow"
+   href="https://www.mozilla.org/firefox/this-browser-comes-highly-recommended/?utm_source=devs-for.firefox.com&utm_medium=referral&utm_campaign=devs-for-firefox&utm_content=Developers_For_Firefox_Dark">
+  <img style="border:0 none;"
+       alt="Developers for Firefox"
+       srcset="//code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Dark.png,
+               //code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Dark-2x.png 2x"
+       src="//code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Dark.png">
+</a>
+
 
 ## 🧮 Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
