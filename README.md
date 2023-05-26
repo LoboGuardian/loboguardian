@@ -1,7 +1,7 @@
-<h3 align="center">👋 Hi there, I'm Rafael also know as loboguardian </a> <img src="#" width="28" /> </h3>
+<h3 align="center">👋 Hi there, I'm Rafael also know as loboguardian </a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 
 <p align="center">
-<a href="#"><img src="https://i.postimg.cc/Ghssyc4b/3090ti.png" height="100%" width="100%" /></a>
+<a href="#"><img src="#" height="100%" width="100%" /></a>
 </p>
 
 Since 2016. On tech world
