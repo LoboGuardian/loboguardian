@@ -26,11 +26,12 @@
 ### 📌 Interests
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge&logoColor=white&labelColor=101010)](https://archlinux.org/)
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)] (https://fedoraproject.org/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](https://fedoraproject.org/)
+[![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&labelColor=101010)](opensuse.org/)
 
 <h3 align="left"> 💻Languages and Tools:</h3>
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cs/)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&log=react&logoColor=white&labelColor=101010)](https://reactjs.org/)
 
