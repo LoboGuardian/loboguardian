@@ -32,7 +32,9 @@ I have been a professional telecommunications engineer for more than 1 years.
 #### Mobile OS
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://www.android.com/)
 #### Company
-[![Dell](https://img.shields.io/static/v1?style=for-the-badge&message=Dell&color=007DB8&logo=Dell&logoColor=white&labelColor=101010)](www.dell.com) [![Red Hat](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=EE0000&logo=Red+Hat&logoColor=white&labelColor=101010)](redhat.com/)
+[![Dell](https://img.shields.io/v1?style=for-the-badge&message=Dell&color=007DB8&logo=Dell&logoColor=white&labelColor=101010)](www.dell.com) [![Red Hat](https://img.shields.io/v1?style=for-the-badge&message=Red+Hat&color=EE0000&logo=Red+Hat&logoColor=white&labelColor=101010)](redhat.com)
+
+![Dell Badge](https://img.shields.io/badge/Dell-007DB8?logo=dell&logoColor=fff&style=plastic)
 
 ## 🧮 Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
