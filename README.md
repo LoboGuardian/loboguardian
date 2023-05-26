@@ -1,12 +1,10 @@
 ### 👋 Hi there, I'm Rafael also know as loboguardian 🐺
-
 ![GitHub followers](https://img.shields.io/github/followers/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge)
 
 <!-- <p align="center">
 <a href="#"><img src="#" height="100%" width="100%" /></a>
 </p> -->
-
-I have been a professional telecommunications engineer for more than 1 years.
+I'm a professional telecommunications engineer, FullStack.
 
 ## 💻Languages and Tools:
 
@@ -30,7 +28,7 @@ I have been a professional telecommunications engineer for more than 1 years.
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/windows/windows-11)[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://www.android.com/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=101010)](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&labelColor=101010)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPuqK0xJP_AhWJpYQIHYqlB44QFnoECAkQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fedge%2Fdownload&usg=AOvVaw10jbjeqGp6-BwezjV70LDR)
 
-[![DevelopersforFirefox](Developers_For_Firefox_Dark.png)]
+![DevelopersforFirefox](Developers_For_Firefox_Dark.png)
 [![Community](comunity.md)]
 
 ## 🧮 Stats 
