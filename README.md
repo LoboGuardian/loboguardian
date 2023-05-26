@@ -35,7 +35,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badgee&logo=react&logoColor=white&labelColor=101010)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&log=react&logoColor=white&labelColor=101010)](https://reactjs.org/)
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org)
 
