@@ -1,4 +1,4 @@
-<h3 align="center">👋### Hi there, I'm Rafael also know as loboguardian </a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
+<h3 align="center">👋 Hi there, I'm Rafael also know as loboguardian </a> <img src="#" width="28" /> </h3>
 
 <p align="center">
 <a href="#"><img src="https://i.postimg.cc/Ghssyc4b/3090ti.png" height="100%" width="100%" /></a>
@@ -16,10 +16,10 @@ Since 2016. On tech world
 - Windows 7, 10, 11 (operative system)
 - Numix (design)
 
-### <img src="https://raw.githubusercontent.com/elementary/icons/main/apps/64/utilities-system-monitor.svg" alt="system-monitor" width="40" height="40"/> Stats 
+### <img src="https://raw.githubusercontent.com/elementary/icons/main/apps/64/utilities-system-monitor.svg" alt="system-monitor" width="20" height="20"/> Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
 
-### <img src="https://raw.githubusercontent.com/elementary/icons/main/apps/64/system-software-update.svg" alt="system-software-update" width="40" height="40"/> Most used languages
+### <img src="https://raw.githubusercontent.com/elementary/icons/main/apps/64/system-software-update.svg" alt="system-software-update" width="20" height="20"/> Most used languages
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 
 ### Interests
