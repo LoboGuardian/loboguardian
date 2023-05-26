@@ -25,17 +25,20 @@
 
 ### 📌 Interests
 
+## Open Source
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge&logoColor=white&labelColor=101010)](https://archlinux.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](https://fedoraproject.org/)
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&labelColor=101010)](opensuse.org/)
 
+## Windows
 [![Windows 7](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/lifecycle/products/windows-7)
 [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/software-download/windows10)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/windows/windows-11)
 
+## Mobile
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://www.android.com/)
 
-<h3 align="left"> 💻Languages and Tools:</h3>
+### 💻Languages and Tools:
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cs/)
 
