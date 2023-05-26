@@ -29,7 +29,7 @@ I'm a professional telecommunications engineer, FullStack.
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=101010)](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&labelColor=101010)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPuqK0xJP_AhWJpYQIHYqlB44QFnoECAkQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fedge%2Fdownload&usg=AOvVaw10jbjeqGp6-BwezjV70LDR)
 
 ![DevelopersforFirefox](Developers_For_Firefox_Dark.png)
-[![Community](comunity.md)]
+![Community](comunity.md)
 
 ## 🧮 Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
