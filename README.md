@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Rafael also know as loboguardian </a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
+### 👋 Hi there, I'm Rafael also know as loboguardian (https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111)
 
 <!-- <p align="center">
 <a href="#"><img src="#" height="100%" width="100%" /></a>
@@ -17,25 +17,25 @@
 - Full Stack (Work)
 - Numix (design)
 
-### 🧮 Stats 
+## 🧮 Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
 
-### 📝 Most used languages
+## 📝 Most used languages
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 
 ### 📌 Interests
 
-## Open Source
+#### Open Source
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge&logoColor=white&labelColor=101010)](https://archlinux.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](https://fedoraproject.org/)
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&labelColor=101010)](opensuse.org/)
 
-## Windows
-[![Windows 7](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/lifecycle/products/windows-7)
+#### Windows
+[![Windows 7](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/lifecycle/products/windows-7)
 [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/software-download/windows10)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/windows/windows-11)
 
-## Mobile
+#### Mobile
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://www.android.com/)
 
 ### 💻Languages and Tools:
