@@ -4,7 +4,7 @@
 <a href="#"><img src="#" height="100%" width="100%" /></a>
 </p> -->
 
-Since 2016. On tech world
+### 📅 Since 2016. On tech world
 - I love linux, I'm a web developer.
 - I love the linux terminal, because it,
 - I develop cli applications for linux.
@@ -14,6 +14,7 @@ Since 2016. On tech world
 - Fedora Linux (linux operative system)
 - Arch Linux (linux operative system)
 - Windows 7, 10, 11 (operative system)
+- Full Stack (Work)
 - Numix (design)
 
 ### 🧮 Stats 
@@ -27,12 +28,12 @@ Since 2016. On tech world
 <a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
 <a href="https://fedoraproject.org/"><img src="https://fedoraproject.org/assets/images/logos/fedora-blue.png" height="20%" width="20%"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://es.wikipedia.org/wiki/Bash" target="_blank"> <img src="https://raw.githubusercontent.com/elementary/icons/master/apps/64/utilities-terminal.svg" alt="bash" width="40" height="40"/> </a> </p>
+<h3 align="left"> 💻Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://es.wikipedia.org/wiki/Bash" target="_blank"> <img src="https://raw.githubusercontent.com/elementary/icons/master/apps/64/utilities-terminal.svg" alt="bash" width="40" height="40"/> </a> </p>
 
 <!-- Firma -->
 <p align="right">
-  ¡Thanks for watching!<br>
+    Thanks for watching! 🐙<br>
 </p>
 
 <!--
