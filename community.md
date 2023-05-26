@@ -3,7 +3,7 @@
 #### Huawei
 
 #### Mozilla Developer
-![DevelopersforFirefox](Developers_For_Firefox_Dark.png)
+![DevelopersforFirefox](https://mozilla.teachable.com/) ![DevelopersforFirefox](Developers_For_Firefox_Dark.png)
 #### Red Hat
 
 #### Linux
