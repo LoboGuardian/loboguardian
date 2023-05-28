@@ -1,6 +1,5 @@
 ### 👋 Hi there, I'm Rafael also know as loboguardian 🐺
 <!-- <p align="center"><a href="#"><img src="#" height="100%" width="100%" /></a></p> -->
-![GitHub followers](https://img.shields.io/github/followers/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge)
 
 I'm a professional telecommunications engineer, FullStack Junior.
 
@@ -28,17 +27,8 @@ I'm a professional telecommunications engineer, FullStack Junior.
 ## 📝 Most used languages
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 
-![Community](community.md)
-<!--
-**LoboGuardian/loboguardian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Community
+[![Community](https://img.shields.io/badge/-Community-gray?style=for-the-badge&logoColor=white&labelColor=101010)](community.md)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<!--![GitHub followers](https://img.shields.io/github/followers/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge)-->
