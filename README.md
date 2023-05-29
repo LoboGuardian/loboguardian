@@ -27,8 +27,8 @@ I'm a professional telecommunications engineer, FullStack Junior.
 ## 📝 Most used languages
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 
+<!--
 ## Community
 [![Community](https://img.shields.io/badge/-Community-gray?style=for-the-badge&logoColor=white&labelColor=101010)](community.md)
 
-
-<!--![GitHub followers](https://img.shields.io/github/followers/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge)-->
+![GitHub followers](https://img.shields.io/github/followers/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/loboguardian?color=777777&logo=github&logoColor=white&labelColor=101010&style=for-the-badge)-->
