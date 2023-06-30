@@ -1,6 +1,7 @@
 <!--### 👋 Hi there, I'm Rafael also know as loboguardian 🐺
  <p align="center"><a href="#"><img src="#" height="100%" width="100%" /></a></p> -->
-### *Telecommunications Engineer | DevSecOps, Cloud & Networking | Instructor STEAM | Cybersecurity Professional | AI Engineer | Data Analyst | Android Dev | UI/UX Designer | Power BI data analyst | LinkedIn Creator*
+### *Telecommunications Engineer | DevSecOps, Cloud & Networking | Mobile developer | UI/UX Designer*
+#### *AI Specialist | Data Analyst | STEAM Instructor | LinkedIn Creator*
 
 ## 💻Languages and Tools:
 #### Web
