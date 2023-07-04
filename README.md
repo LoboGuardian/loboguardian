@@ -21,17 +21,18 @@
 -->
 ## 🔍 Workspace Specs
 
-[![Dell-G15](https://img.shields.io/badge/Windows-Dell_G15_5515-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](#) [![AMD](https://img.shields.io/badge/AMD-Ryzen_5_5600H_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white&labelColor=101010)](#) [![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&&logoColor=white&labelColor=101010)](#)
+[![Dell-G15](https://img.shields.io/badge/Dell_G15_5515-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=101010)](#) [![AMD](https://img.shields.io/badge/AMD-Ryzen™_5_5600H_with_Radeon™_Graphics_(4.2%20GHz)-ED1C24?style=for-the-badge&logo=amd&logoColor=white&labelColor=101010)](#) [![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&&logoColor=white&labelColor=101010)](#)
 
-[![Dell Chromebook 3120](https://img.shields.io/badge/Windows-Dell_G15_5515-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](#) 
-[![Intel Celeron](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
+[![Dell Chromebook 3120](https://img.shields.io/badge/Dell%20Chromebook%2011%203120-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=101010)](#) 
+[![Intel Celeron](https://img.shields.io/badge/Intel-Celeron_N2840_(2.6%20GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
 
-[![Lenovo SL400](https://img.shields.io/badge/Windows-Dell_G15_5515-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](#)[![Intel Dual Core](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
+[![Lenovo SL400](https://img.shields.io/badge/Lenovo%20ThinkPad%20SL400%20(2743A65)-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](#)[![Intel Core 2 Duo](https://img.shields.io/badge/Intel-Core_2_Duo_T6570_(2.1GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
+
+VM
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge&logoColor=white&labelColor=101010)](https://archlinux.org/)
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](https://fedoraproject.org/)
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&labelColor=101010)](opensuse.org/)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/windows/windows-11)[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://www.android.com/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://www.android.com/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=101010)](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&labelColor=101010)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPuqK0xJP_AhWJpYQIHYqlB44QFnoECAkQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fedge%2Fdownload&usg=AOvVaw10jbjeqGp6-BwezjV70LDR)
 
 ## 🧮 Stats 
