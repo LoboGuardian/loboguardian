@@ -7,15 +7,27 @@
 ## 💻Languages and Tools:
 #### Web
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://html.spec.whatwg.org/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://www.w3.org/TR/CSS/#css) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&log=react&logoColor=white&labelColor=101010)](https://reactjs.org/) [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)](https://www.djangoproject.com/)
+[![Django](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)](#Markdown/)
+
+
 #### General-purpose
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cs/)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/c/)[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cpp/)[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cs/)
+
 #### Environment
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.linux.org/) [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
 <!--
 ## 📌 Arrange a meeting
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
 -->
-## 🔍 Interests
+## 🔍 Workspace Specs
+
+[![Dell-G15](https://img.shields.io/badge/Windows-Dell_G15_5515-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](#) [![AMD](https://img.shields.io/badge/AMD-Ryzen_5_5600H_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white&labelColor=101010)](#) [![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&&logoColor=white&labelColor=101010)](#)
+
+[![Dell Chromebook 3120](https://img.shields.io/badge/Windows-Dell_G15_5515-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](#) 
+[![Intel Celeron](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
+
+[![Lenovo SL400](https://img.shields.io/badge/Windows-Dell_G15_5515-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](#)[![Intel Dual Core](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
+
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge&logoColor=white&labelColor=101010)](https://archlinux.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](https://fedoraproject.org/)
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&labelColor=101010)](opensuse.org/)
