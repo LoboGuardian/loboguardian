@@ -30,7 +30,7 @@
 
 
 
-[![Samsung A24](https://img.shields.io/badge/Samsung_A24-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white&labelColor=101010)](#)[![Android](https://img.shields.io/badge/Android_13_One_UI_5.1-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)[![MT8781 Helio G99](https://img.shields.io/badge/MT8781_Helio_G99_(Octa_core%202.20%20Ghz)_[Mali_G57_MC2]-EC9430.svg?style=for-the-badge&logo=MediaTek&logoColor=white&labelColor=101010)](#)
+[![Samsung A24](https://img.shields.io/badge/Samsung_A24-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white&labelColor=101010)](https://www.gsmarena.com/samsung_galaxy_a24_4g-12176.php)[![Android](https://img.shields.io/badge/Android_13_One_UI_5.1-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)[![MT8781 Helio G99](https://img.shields.io/badge/MT8781_Helio_G99_(Octa_core%202.20%20Ghz)_[Mali_G57_MC2]-EC9430.svg?style=for-the-badge&logo=MediaTek&logoColor=white&labelColor=101010)](#)
 
 VM
 
