@@ -11,10 +11,10 @@
 
 
 #### General-purpose
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/c/)[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cpp/)[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cs/)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/c/)[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cpp/)[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cs/)[![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)](https://dotnet.microsoft.com/en-us/) 
 
-#### Environment
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.linux.org/) [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
+#### Environments Oriented
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.linux.org/) [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/)[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://kotlinlang.org/)[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
 <!--
 ## 📌 Arrange a meeting
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
@@ -27,6 +27,8 @@
 [![Intel Celeron](https://img.shields.io/badge/Intel-Celeron_N2840_(2.6%20GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
 
 [![Lenovo SL400](https://img.shields.io/badge/Lenovo%20ThinkPad%20SL400%20(2743A65)-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](#)[![Intel Core 2 Duo](https://img.shields.io/badge/Intel-Core_2_Duo_T6570_(2.1GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
+
+[![Samsung A24](https://img.shields.io/badge/Samsung_A24-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white&labelColor=101010)](#)[![Android](https://img.shields.io/badge/Android_13_One_UI_5.1-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)[![MT8781 Helio G99](https://img.shields.io/badge/MT8781_Helio_G99_(Octa_core%202.20%20Ghz)_[Mali_G57_MC2]-EC9430.svg?style=for-the-badge&logo=MediaTek&logoColor=white&labelColor=101010)](#)
 
 VM
 
