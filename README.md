@@ -23,10 +23,12 @@
 
 [![Dell-G15](https://img.shields.io/badge/Dell_G15_5515-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=101010)](#) [![AMD](https://img.shields.io/badge/AMD-Ryzen™_5_5600H_with_Radeon™_Graphics_(4.2%20GHz)-ED1C24?style=for-the-badge&logo=amd&logoColor=white&labelColor=101010)](#) [![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&&logoColor=white&labelColor=101010)](#)
 
-[![Dell Chromebook 3120](https://img.shields.io/badge/Dell%20Chromebook%2011%203120-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=101010)](#) 
+[![Dell Chromebook 3120](https://img.shields.io/badge/Dell%20Chromebook%2011%203120-0078D6?style=for-the-badge&logo=Windows&logoColor=white&labelColor=101010)](#) 
 [![Intel Celeron](https://img.shields.io/badge/Intel-Celeron_N2840_(2.6%20GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
 
-[![Lenovo SL400](https://img.shields.io/badge/Lenovo%20ThinkPad%20SL400%20(2743A65)-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](#)[![Intel Core 2 Duo](https://img.shields.io/badge/Intel-Core_2_Duo_T6570_(2.1GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
+[![Lenovo SL400](https://img.shields.io/badge/Lenovo%20ThinkPad%20SL400%20(2743A65)-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](#)[![Intel Core 2 Duo](https://img.shields.io/badge/Intel-Core_2_Duo_T6570_(2.1GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)[![KDE WM](https://img.shields.io/badge/KDE-1D99F3.svg?style=for-the-badge&logo=KDE&logoColor=white&labelColor=101010)](#)
+
+
 
 [![Samsung A24](https://img.shields.io/badge/Samsung_A24-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white&labelColor=101010)](#)[![Android](https://img.shields.io/badge/Android_13_One_UI_5.1-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)[![MT8781 Helio G99](https://img.shields.io/badge/MT8781_Helio_G99_(Octa_core%202.20%20Ghz)_[Mali_G57_MC2]-EC9430.svg?style=for-the-badge&logo=MediaTek&logoColor=white&labelColor=101010)](#)
 
