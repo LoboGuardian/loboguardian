@@ -26,7 +26,7 @@
 [![Dell Chromebook 3120](https://img.shields.io/badge/Dell%20Chromebook%2011%203120-0078D6?style=for-the-badge&logo=Windows&logoColor=white&labelColor=101010)](#) 
 [![Intel Celeron](https://img.shields.io/badge/Intel-Celeron_N2840_(2.6%20GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)
 
-[![Lenovo SL400](https://img.shields.io/badge/Lenovo%20ThinkPad%20SL400%20(2743A65)-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](#)[![Intel Core 2 Duo](https://img.shields.io/badge/Intel-Core_2_Duo_T6570_(2.1GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)[![KDE WM](https://img.shields.io/badge/Xfce_4.18-44699c.svg?style=for-the-badge&logo=Xfce&logoColor=white&labelColor=101010)](#)
+[![Lenovo SL400](https://img.shields.io/badge/Lenovo%20ThinkPad%20SL400%20(2743A65)-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010)](#)[![Intel Core 2 Duo](https://img.shields.io/badge/Intel-Core_2_Duo_T6570_(2.1GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#)[![KDE WM](https://img.shields.io/badge/Xfce_4.18-06a2d2.svg?style=for-the-badge&logo=Xfce&logoColor=white&labelColor=101010)](#)
 
 
 
