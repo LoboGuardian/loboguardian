@@ -1,7 +1,7 @@
 <!--### 👋 Hi there, I'm Rafael also know as loboguardian 🐺
  <p align="center"><a href="#"><img src="#" height="100%" width="100%" /></a></p> -->
 ### *Telecommunications Engineer | DevSecOps, Cloud & Networking* 
-#### *STEAM Instructor | Judge WRO Venezuela*
+#### *STEAM Instructor | Judge WRO*
 #### *LinkedIn Creator* 
 
 <!-- #### Mobile developer | UI/UX Designer* -->
