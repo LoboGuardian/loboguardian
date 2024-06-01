@@ -20,11 +20,10 @@
  -->
 
 ## 🧮📝 Stats 
-![LoboGuardian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=loboguardian&theme=react&layout=compact&hide_border=true)
-![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)
+![LoboGuardian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=loboguardian&theme=react&layout=compact&hide_border=true) ![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)
+![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 [![LoboGuardian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loboguardian&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 
 <!-- ### :zap: Recent Activity -->
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
