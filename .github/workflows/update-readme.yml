@@ -10,12 +10,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: GitHub - Activity - Readme
       - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Specify a custom commit message"
+          COMMIT_MSG: "Wiwiwi"
           MAX_LINES: 6
           COMMIT_NAME: GitHub Activity Readme
