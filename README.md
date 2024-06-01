@@ -26,15 +26,15 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 
-### :zap: Recent Activity
+<!-- ### :zap: Recent Activity -->
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#4095](https://github.com/hoppscotch/hoppscotch/pull/4095) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 💪 Opened PR [#4094](https://github.com/hoppscotch/hoppscotch/pull/4094) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#3289](https://github.com/hoppscotch/hoppscotch/issues/3289#issuecomment-2046891587) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#3931](https://github.com/hoppscotch/hoppscotch/pull/3931#issuecomment-2017809328) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🎉 Merged PR [#3929](https://github.com/hoppscotch/hoppscotch/pull/3929) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!-- 
+1. 
+2. 
+3. 
+4. 
+5.  -->
 
 
 <!--END_SECTION:activity-->
