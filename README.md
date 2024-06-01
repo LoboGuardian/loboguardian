@@ -19,15 +19,13 @@
 📄 Know about my experiences https://linkedin.com/in/gonzalezrbx
  -->
 
-
-## 🧮 Stats 
-[![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
+## 🧮📝 Stats 
+![LoboGuardian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=loboguardian&theme=react&layout=compact&hide_border=true)
+![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)
+[![LoboGuardian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loboguardian&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=loboguardian&label=Profile%20views&color=0e75b6&style=flat-square" alt="loboguardian profile view count" /></p> -->
-
-
-## 📝 Most used languages
-![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
 
 ## Proyects
 
