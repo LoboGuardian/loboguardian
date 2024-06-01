@@ -13,6 +13,13 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/LoboGuardian_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
 
+<!-- 
+💬 Ask me about Java, Spring, Python, Golang, Javascript, React, AWS, Docker
+
+📄 Know about my experiences https://linkedin.com/in/gonzalezrbx
+ -->
+
+
 ## 🧮 Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
 
