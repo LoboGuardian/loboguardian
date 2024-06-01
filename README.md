@@ -7,6 +7,7 @@
 <!-- #### *AI Specialist | Data Scientist | -->
 
 <!-- <p align="center"><a href="#"><img src="#" height="100%" width="100%" /></a></p> -->
+[![Website](https://img.shields.io/badge/loboguardian.com-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010)](https://loboguardian.github.io/)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/LoboGuardian_) -->
 <!-- [![YouTube](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://www.youtube.com/@LoboGuardian) -->
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/LoboGuardian_)
@@ -14,6 +15,9 @@
 
 ## 🧮 Stats 
 [![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
+
+<!-- <img src="https://komarev.com/ghpvc/?username=loboguardian&label=Profile%20views&color=0e75b6&style=flat-square" alt="loboguardian profile view count" /></p> -->
+
 
 ## 📝 Most used languages
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
