@@ -9,16 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
+      - name: GitHub - Activity - Readme
       - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: LoboGuardian
-          GIST_ID: 123abc
         with:
           COMMIT_MSG: "Specify a custom commit message"
-          MAX_LINES: 5
+          MAX_LINES: 6
           COMMIT_NAME: GitHub Activity Readme
