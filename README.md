@@ -125,8 +125,9 @@
 
 [![Dell Latitude D600](https://img.shields.io/badge/Dell%20Latitude%20D600%20(i686)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=101010)](#)[![Intel Pentium M](https://img.shields.io/badge/Intel-Pentium%20M_(1.40GHz)-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=101010)](#) [![ATI](https://img.shields.io/badge/ATI_Mobility-RADEON_9000_(32Mb)-ED1C24?style=for-the-badge&logo=amd&&logoColor=white&labelColor=101010)](#)![XFCE WM](https://img.shields.io/badge/Xfce_4.18-06a2d2.svg?style=for-the-badge&logo=Xfce&logoColor=white&labelColor=101010)
 
-[![Samsung A24](https://img.shields.io/badge/Samsung_A24-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white&labelColor=101010)](https://www.gsmarena.com/samsung_galaxy_a24_4g-12176.php)[![Android](https://img.shields.io/badge/Android_14_One_UI_6.0-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)[![MT8781 Helio G99](https://img.shields.io/badge/MT8781_Helio_G99_(Octa_core%202.20%20Ghz)_[Mali_G57_MC2]-EC9430.svg?style=for-the-badge&logo=MediaTek&logoColor=white&labelColor=101010)](#)
+[![Samsung A35 5G](https://img.shields.io/badge/Samsung_A35_5G-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white&labelColor=101010)](https://www.gsmarena.com/samsung_galaxy_a35-12705.php)[![Android](https://img.shields.io/badge/Android_14_One_UI_6.1-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)[![Exynos 1380](https://img.shields.io/badge/Exynos_1380_(Octa_core%204%20x%202.4%20Ghz%20Cortex_A78%20&%204%20x%202.0%20GHz%20Cortex_A55)_[Mali_G68_MP5]-EC9430.svg?style=for-the-badge&logo=MediaTek&logoColor=white&labelColor=101010)](#)
 
+Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
 ![Ipad 1](https://img.shields.io/badge/Ipad%201%20(MB292LL)_Apple_A4_(1GHz)-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)
 
  - VM
