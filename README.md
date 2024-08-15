@@ -19,7 +19,7 @@
 📄 Know about my experiences https://linkedin.com/in/gonzalezrbx
  -->
 ## 🏆🎖 Trophy 
-[![trophy](https://github-profile-trophy.vercel.app/?username=loboguardian)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=loboguardian&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧮📝 Stats 
 ![LoboGuardian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=loboguardian&theme=react&layout=compact&hide_border=true)
@@ -56,7 +56,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoColor=white&labelColor=101010)](https://www.youtube.com/@JARwareZ)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/JARwareZ)
 [![LinkedIn_JARWAREZ](https://img.shields.io/badge/linkedin_JARWAREZ-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/company/jarwarez/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/JARwareZ/)
     
 - Lobo-STEAM
