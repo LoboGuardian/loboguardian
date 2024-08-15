@@ -18,11 +18,16 @@
 
 📄 Know about my experiences https://linkedin.com/in/gonzalezrbx
  -->
+## 🏆🎖 Trophy 
+[![trophy](https://github-profile-trophy.vercel.app/?username=loboguardian)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧮📝 Stats 
 ![LoboGuardian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=loboguardian&theme=react&layout=compact&hide_border=true)
+
 ![LoboGuardian's stats](https://github-readme-stats.vercel.app/api?username=loboguardian&count_private=true&show_icons=true&theme=react)
+
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&langs_count=15&theme=react&layout=compact&hide=)
+
 [![LoboGuardian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loboguardian&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
