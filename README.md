@@ -133,8 +133,6 @@
 
 [![Samsung Galaxy Tab A 8.0](https://img.shields.io/badge/Samsung_Galaxy_Tab_A_8.0_&_S_Pen-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white&labelColor=101010)](https://www.gsmarena.com/samsung_galaxy_tab_a_8_0_&_s_pen_(2019)-9651.php)[![Android](https://img.shields.io/badge/Android_9_One_UI_1.0-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)[![Exynos 7904 ](https://img.shields.io/badge/Exynos_7904_[Mali_G71_MP2]-1428A0.svg?style=for-the-badge&logo=samsung&logoColor=white&labelColor=101010)](#)
 
-[![Xiaomi Redmi 8](https://img.shields.io/badge/Xiaomi_Redmi_8-%23FF6900.svg?style=for-the-badge&logo=Xiaomi&logoColor=white&labelColor=101010)](https://www.gsmarena.com/xiaomi_redmi_8-9800.php)[![Android](https://img.shields.io/badge/Android_10_MIUI_Global_12.5.3.0-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)[![Qualcomm SDM439 Snapdragon 439](https://img.shields.io/badge/Qualcomm_SDM439_Snapdragon_439_[Adreno_505]-%23FF6900.svg?style=for-the-badge&logo=Qualcomm&logoColor=white&labelColor=101010)](#)
-
 ![Ipad 1](https://img.shields.io/badge/Ipad%201%20(MB292LL)_Apple_A4-999999.svg?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)
 
  - VM
