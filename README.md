@@ -1,8 +1,14 @@
  ## 👋 Hi there, I'm Rafael González also know as LoboGuardian 🐺
+
+> If it doesn't exist, create it yourself.
+> 
+> - Daniel Wieczorek
  
 ### *Telecommunications Engineer | DevSecOps, Cloud & Networking* 
 #### *STEAM Instructor | Judge WRO*
 #### *LinkedIn Creator* 
+
+
 <!-- #### Mobile developer | UI/UX Designer* -->
 <!-- #### *AI Specialist | Data Scientist | -->
 
