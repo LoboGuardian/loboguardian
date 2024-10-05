@@ -1,13 +1,5 @@
  ## 👋 Hi there, I'm Rafael González also know as LoboGuardian 🐺
-
-> If it doesn't exist, create it yourself.
-> 
-> - Daniel Wieczorek
- 
-### *Telecommunications Engineer | DevSecOps, Cloud & Networking* 
-#### *STEAM Instructor | Judge WRO*
-#### *LinkedIn Creator* 
-
+### Telecommunications Engineer | Full-stack developer | DevSecOps, Cloud & Networking | WRO Judge
 
 <!-- #### Mobile developer | UI/UX Designer* -->
 <!-- #### *AI Specialist | Data Scientist | -->
@@ -16,8 +8,13 @@
 [![Website](https://img.shields.io/badge/loboguardian.com-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010)](https://loboguardian.github.io/)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/LoboGuardian_) -->
 <!-- [![YouTube](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://www.youtube.com/@LoboGuardian) -->
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/LoboGuardian_)
+[![X_(Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/LoboGuardian_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
+
+> If it doesn't exist, create it yourself.
+> 
+> - Daniel Wieczorek
+ 
 
 <!-- 
 💬 Ask me about Java, Spring, Python, Golang, Javascript, React, AWS, Docker
