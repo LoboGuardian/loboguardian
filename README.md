@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects related to web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adilmohak](https://github.com/LoboGuardian)
+- 👨‍💻 All of my projects are available at [https://github.com/LoboGuardian](https://github.com/LoboGuardian)
 
 - 💬 Ask me about **Django, ML, and best practices in web development**
 
