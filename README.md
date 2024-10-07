@@ -1,8 +1,23 @@
  ## 👋 Hi there, I'm Rafael González also know as LoboGuardian 🐺
 ### Telecommunications Engineer | Full-stack developer | DevSecOps, Cloud & Networking | WRO Judge
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoboGuardian&label=Profile%20views&Color=101010&style=solid" alt="LoboGuardian" /> </p>
+
 <!-- #### Mobile developer | UI/UX Designer* -->
 <!-- #### *AI Specialist | Data Scientist | -->
+
+
+- 🔭 I’m currently working on **another powerful app**
+
+- 🌱 I’m currently learning **advanced data visualization techniques in Python**
+
+- 👯 I’m looking to collaborate on **open-source projects related to web development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/adilmohak](https://github.com/LoboGuardian)
+
+- 💬 Ask me about **Django, ML, and best practices in web development**
+
+- ⚡ Fun fact **I'm not afraid of bugs**
 
 <!-- <p align="center"><a href="#"><img src="#" height="100%" width="100%" /></a></p> -->
 [![Website](https://img.shields.io/badge/loboguardian.com-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010)](https://loboguardian.github.io/)
