@@ -46,7 +46,7 @@
 
 ![LoboGuardian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&langs_count=15&theme=react&layout=compact&hide=)
 
-[![LoboGuardian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loboguardian&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LoboGuardian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loboguardian&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <!-- ### :zap: Recent Activity -->
