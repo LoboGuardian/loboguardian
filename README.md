@@ -26,28 +26,32 @@ I am a **Telecommunications Engineer** with expertise as a **Full-stack Develope
 
 ⚡ **Fun Fact**:  **I'm not afraid of bugs!**
 
+## 🔗 Connect with Me
+
+- **Website**: [Website](https://loboguardian.github.io/)
+- **X (formerly Twitter)**: [@LoboGuardian_](https://x.com/LoboGuardian_)
+- **LinkedIn**: [Rafael González](https://www.linkedin.com/in/gonzalezrbx/)
+<!--
+- [![Website](https://img.shields.io/badge/loboguardian.com-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010)](https://loboguardian.github.io/)
+- [![X_(Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/LoboGuardian_)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
+ -->
+## 📜 Citation
+
+If you would like to reference my work, you can cite it as follows:
+
+> González, Rafael. "LoboGuardian." GitHub Profile. [https://github.com/LoboGuardian](https://github.com/LoboGuardian)
+ 
 
 
 <!-- #### Mobile developer | UI/UX Designer* -->
 <!-- #### *AI Specialist | Data Scientist | -->
 
 <!-- <p align="center"><a href="#"><img src="#" height="100%" width="100%" /></a></p> -->
-[![Website](https://img.shields.io/badge/loboguardian.com-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010)](https://loboguardian.github.io/)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/LoboGuardian_) -->
 <!-- [![YouTube](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://www.youtube.com/@LoboGuardian) -->
-[![X_(Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/LoboGuardian_)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
 
-> If it doesn't exist, create it yourself.
-> 
-> - Daniel Wieczorek
- 
-
-<!-- 
-💬 Ask me about Java, Spring, Python, Golang, Javascript, React, AWS, Docker
-
-📄 Know about my experiences https://linkedin.com/in/gonzalezrbx
- -->
+<!-- 📄 Know about my experiences https://linkedin.com/in/gonzalezrbx -->
 ## 🏆🎖 Achievements
 
 I take pride in my accomplishments and contributions in the coding community. Here are some of my noteworthy recognitions:
@@ -70,19 +74,12 @@ I take pride in my accomplishments and contributions in the coding community. He
 [![LoboGuardian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loboguardian&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 *My activity over time – showcasing my commitment to open-source and continuous learning.*
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+## 💭 My Philosophy
 
-<!-- ### :zap: Recent Activity -->
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
-<!-- 
-1. 
-2. 
-3. 
-4. 
-5.  -->
+> If it doesn't exist, create it yourself.
+> 
+> - Daniel Wieczorek
 
-
-<!--END_SECTION:activity-->
+Thank you for visiting my GitHub profile! Let's connect and collaborate!
 
 <!-- <img src="https://komarev.com/ghpvc/?username=loboguardian&label=Profile%20views&color=0e75b6&style=flat-square" alt="loboguardian profile view count" /></p> -->
