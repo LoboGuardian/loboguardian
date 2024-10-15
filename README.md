@@ -1,23 +1,35 @@
- ## 👋 Hi there, I'm Rafael González also know as LoboGuardian 🐺
-### Telecommunications Engineer | Full-stack developer | DevSecOps, Cloud & Networking | WRO Judge
+# 👋 Welcome to My GitHub Profile!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoboGuardian&label=Profile%20views&Color=101010&style=solid" alt="LoboGuardian" /> </p>
+Hi there! I’m **Rafael González**, also known as **LoboGuardian** 🐺.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoboGuardian&abbreviated=true&label=PROFILE+VIEWS&color=lightgrey&style=for-the-badge" alt="LoboGuardian" /> </p>
+
+## About Me
+
+I am a **Telecommunications Engineer** with expertise as a **Full-stack Developer** and a passion for **DevSecOps, Cloud Computing, and Networking**. Additionally, I serve as a **WRO Judge**.
+
+## Current Projects & Learning
+
+🔭 **Current Projects**: I'm actively developing **a powerful new application** that I can't wait to share!
+
+🌱 **Learning**: I’m diving into **advanced data visualization techniques in Python** to enhance my data-centric projects.
+
+## Collaboration & Contributions
+
+👯 I’m eager to collaborate on **open-source projects** related to web development. Let’s build something great together!
+
+## Get In Touch
+
+👨‍💻 You can explore all my projects on my [GitHub](https://github.com/LoboGuardian).
+
+💬 Feel free to ask me about **Django**, **Machine Learning**, and best practices in web development. I love sharing knowledge and insights!
+
+⚡ **Fun Fact**:  **I'm not afraid of bugs!**
+
+
 
 <!-- #### Mobile developer | UI/UX Designer* -->
 <!-- #### *AI Specialist | Data Scientist | -->
-
-
-- 🔭 I’m currently working on **another powerful app**
-
-- 🌱 I’m currently learning **advanced data visualization techniques in Python**
-
-- 👯 I’m looking to collaborate on **open-source projects related to web development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/LoboGuardian](https://github.com/LoboGuardian)
-
-- 💬 Ask me about **Django, ML, and best practices in web development**
-
-- ⚡ Fun fact **I'm not afraid of bugs**
 
 <!-- <p align="center"><a href="#"><img src="#" height="100%" width="100%" /></a></p> -->
 [![Website](https://img.shields.io/badge/loboguardian.com-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010)](https://loboguardian.github.io/)
