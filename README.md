@@ -6,23 +6,50 @@ Hi there! I’m **Rafael González**, also known as **LoboGuardian** 🐺.
 
 ## About Me
 
-As a **Telecommunications Engineer** with a passion for building **full-stack applications** and integrating **DevSecOps principles.** I also have a strong interest in **Cloud Computing, and Networking**, further strengthening my infraestructure expertise.
+**Telecommunications Engineer** with a passion for building **full-stack applications** and integrating **DevSecOps principles.** I also have a strong interest in **Cloud Computing, and Networking**, further strengthening my infraestructure expertise.
 
-Additionally, I contribute my technical knowledge as a **WRO Judge**.
+As a passionate **WRO Judge**, I'm committed to inspiring the next generation of tech leaders. By sharing my technical expertise, I aim to empower young minds to shape the future of innovation.
+
+****
 
 ## Current Projects
 
-** 🔭 Current Projects:**
+**🔭 Current Projects:**
 
-I'm actively developing **a powerful new application!**
+- I'm actively developing **a powerful new application!**
 
-** 🌱 Learning:**
+**Inspiring the Next Generation of Innovators**
+  
+  As a passionate advocate for STEAM education, I'm actively involved in:
+  
+  - World Robot Olympiad (WRO®) Judging: Contributing to the global STEM community by fostering innovation, problem-solving, and critical thinking skills among young minds.
+  
+  - Mentorship: Sharing my knowledge and experience with aspiring developers and students.
+  
+  - Educational Initiatives: Collaborating on projects that promote STEM education and inspire young minds.
 
-I’m diving into **advanced data visualization techniques in Python** to enhance my data-driven projects.
+**🌱 Learning and Growing:**
+
+To stay ahead of the curve, I'm constantly expanding my skill set:
+
+  - **Advanced Data Visualization with Python**: Creating visually stunning and insightful data visualizations
+  
+  - **SQL Mastery**: Mastering SQL to efficiently query and manipulate large datasets, optimizing data retrieval and analysis.
+  
+  - **Cross-Platform Development with Flutter**: Building beautiful and performant mobile and web applications using Flutter's versatile framework and Dart's efficient language.
+  
+  - M**ulti-Platform Development**: Exploring frameworks and tools to create applications that seamlessly run across various platforms, including desktop, web, and mobile.
+  
+  - **Educational Technology**: Learning to design and implement effective learning management systems and educational workspaces.
+
+By combining technical expertise with a passion for innovation, I'm committed to creating impactful solutions and inspiring others to pursue their dream
+  
+****
+
 
 ## Collaboration & Contributions
  
-** 💻 Open Source:**
+**💻 Open Source:**
 
 I’m eager to collaborate on **open-source projects** related to web development. Feel free to reach out if you have any interesting opportunities!
 
@@ -34,6 +61,10 @@ Ask me anything about Django, Machine Learning, or best practices in web develop
 
 **Bugs don't care me!** I thrive on tackling challenges and finding efficient solutions.
 
+**Besides coding**, I'm passionate about **exercise** and **math**. I particularly enjoy delving into the intricacies of **integrals, derivatives**, and **complex mathematical calculations**.
+
+****
+
 ## 🔗 Connect with Me
 
 - **Github:** [LoboGuardian's GitHub](https://github.com/LoboGuardian)
@@ -44,20 +75,25 @@ Ask me anything about Django, Machine Learning, or best practices in web develop
 
 - **LinkedIn:**: [Rafael González](https://www.linkedin.com/in/gonzalezrbx/)
   
+
+
   <!--
+  - [![Website](https://img.shields.io/badge/loboguardian.com-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010)](https://loboguardian.github.io/) 
+  -->
 
-- [![Website](https://img.shields.io/badge/loboguardian.com-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010)](https://loboguardian.github.io/)
+  <!--
+  - [![X_(Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/LoboGuardian_)
+  -->
 
-- [![X_(Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/LoboGuardian_)
-
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
+  <!--
+  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
+  -->
 
 ## Get In Touch
 
 You can explore all my projects on my [GitHub](https://github.com/LoboGuardian).
 
 eel free to ask me about **Django**, **Machine Learning**, and best practices in web development. I love sharing knowledge and insights!
--->
 
 <!-- #### Mobile developer | UI/UX Designer* -->
 
@@ -65,11 +101,17 @@ eel free to ask me about **Django**, **Machine Learning**, and best practices in
 
 <!-- <p align="center"><a href="#"><img src="#" height="100%" width="100%" /></a></p> -->
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/LoboGuardian_) -->
+<!--
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/LoboGuardian_)
+-->
 
-<!-- [![YouTube](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://www.youtube.com/@LoboGuardian) -->
+<!--
+[![YouTube](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://www.youtube.com/@LoboGuardian)
+-->
 
-<!-- 📄 Know about my experiences https://linkedin.com/in/gonzalezrbx -->
+<!--
+📄 Know about my experiences https://linkedin.com/in/gonzalezrbx
+-->
 
 ## 🏆🎖 Achievements
 
