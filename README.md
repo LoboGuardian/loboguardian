@@ -89,12 +89,6 @@ Ask me anything about Django, Machine Learning, or best practices in web develop
   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalezrbx/)
   -->
 
-## Get In Touch
-
-You can explore all my projects on my [GitHub](https://github.com/LoboGuardian).
-
-eel free to ask me about **Django**, **Machine Learning**, and best practices in web development. I love sharing knowledge and insights!
-
 <!-- #### Mobile developer | UI/UX Designer* -->
 
 <!-- #### *AI Specialist | Data Scientist | -->
