@@ -18,7 +18,7 @@ As a passionate **WRO Judge**, I'm committed to inspiring the next generation of
 
 - I'm actively developing **a powerful new application!**
 
-**Inspiring the Next Generation of Innovators**
+**📄 Inspiring the Next Generation of Innovators**
   
   As a passionate advocate for STEAM education, I'm actively involved in:
   
@@ -103,10 +103,6 @@ Ask me anything about Django, Machine Learning, or best practices in web develop
 [![YouTube](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://www.youtube.com/@LoboGuardian)
 -->
 
-<!--
-📄 Know about my experiences https://linkedin.com/in/gonzalezrbx
--->
-
 ## 🏆🎖 Achievements
 
 I take pride in my accomplishments and contributions in the coding community. Here are some of my noteworthy recognitions:
@@ -133,6 +129,11 @@ I take pride in my accomplishments and contributions in the coding community. He
 [![LoboGuardian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loboguardian&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 *My activity over time – showcasing my commitment to open-source and continuous learning.*
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 💭 My Philosophy
 
 > If it doesn't exist, create it yourself.
@@ -146,3 +147,18 @@ If you would like to reference my work, you can cite it as follows:
 > González, Rafael. "LoboGuardian." GitHub Profile. [https://github.com/LoboGuardian](https://github.com/LoboGuardian)
 
 Thank you for visiting my GitHub profile! Let's connect and collaborate!
+
+<!--
+**LoboGuardian/LoboGuardian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
