@@ -2,13 +2,15 @@
 
 Hi there! I’m **Rafael**, also known as **LoboGuardian** 🐺.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoboGuardian&abbreviated=true&label=PROFILE+VIEWS&color=lightgrey&style=for-the-badge" alt="LoboGuardian's profile view count" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LoboGuardian&abbreviated=true&label=PROFILE+VIEWS&color=lightgrey&style=for-the-badge" alt="LoboGuardian's profile view count" />
+</p>
 
 ## About Me
 
-**Telecommunications Engineer** with a passion for building **full-stack applications** and integrating **DevSecOps principles.** I also have a strong interest in **Cloud Computing, and Networking**, further strengthening my infraestructure expertise.
+**Telecommunications Engineer** by training, with a passion for DevSecOps, cloud computing, and crafting impactful applications from the ground up. My curiosity spans from network infrastructure to full-stack development, blending deep tech with scalable solutions.
 
-As a passionate **WRO Judge**, I'm committed to inspiring the next generation of tech leaders. By sharing my technical expertise, I aim to empower young minds to shape the future of innovation.
+I'm also a proud **Judge**, dedicated to STEAM education and mentoring the next wave of innovators. Whether it’s debugging a server or encouraging a student’s first bot build.  By sharing my technical expertise, I aim to empower young minds to shape the future of innovation.
 
 ****
 
@@ -16,52 +18,51 @@ As a passionate **WRO Judge**, I'm committed to inspiring the next generation of
 
 **🔭 Current Projects:**
 
-- I'm actively developing **a powerful new application!**
+Currently building a next-gen application (and resisting the urge to rewrite it from scratch every other sprint). Stay tuned!
 
-**📄 Inspiring the Next Generation of Innovators**
+**🚀 Inspiring the Next Generation**
   
-  As a passionate advocate for STEAM education, I'm actively involved in:
-  
-  - World Robot Olympiad (WRO®) Judging: Contributing to the global STEM community by fostering innovation, problem-solving, and critical thinking skills among young minds.
-  
-  - Mentorship: Sharing my knowledge and experience with aspiring developers and students.
-  
-  - Educational Initiatives: Collaborating on projects that promote STEM education and inspire young minds.
+As a fierce advocate for STEAM, I'm actively involved in:
+
+- 🤖 WRO Judging – Promoting creative problem-solving through robotics.
+
+- 👨‍🏫 Mentorship – Guiding aspiring devs and curious minds.
+
+- 📚 EdTech Projects – Designing tools that make learning awesome.
 
 **🌱 Learning and Growing:**
 
-To stay ahead of the curve, I'm constantly expanding my skill set:
+I live for learning curves (and the occasional stack overflow). Right now I’m diving deeper into:
 
-  - **Advanced Data Visualization with Python**: Creating visually stunning and insightful data visualizations
-  
-  - **SQL Mastery**: Mastering SQL to efficiently query and manipulate large datasets, optimizing data retrieval and analysis.
-  
-  - **Cross-Platform Development with Flutter**: Building beautiful and performant mobile and web applications using Flutter's versatile framework and Dart's efficient language.
-  
-  - **Multi-Platform Development**: Exploring frameworks and tools to create applications that seamlessly run across various platforms, including desktop, web, and mobile.
-  
-  - **Educational Technology**: Learning to design and implement effective learning management systems and educational workspaces.
+- 📊 Advanced Data Viz with Python – Because charts should speak louder than words.
 
-By combining technical expertise with a passion for innovation, I'm committed to creating impactful solutions and inspiring others to pursue their dream
+- 🧠 SQL Mastery – Making queries sing for data insights.
+
+- 📱 Flutter – Writing once, deploying everywhere.
+
+- 🖥️ Cross-Platform Apps – Building experiences that adapt to any screen.
+
+- 🎓 EdTech Systems – Creating smarter learning environments.
   
 ****
-
 
 ## Collaboration & Contributions
  
 **💻 Open Source:**
 
-I’m eager to collaborate on **open-source projects**. Feel free to reach out if you have any interesting opportunities!
+Love building in the open! Ping me if you’ve got a cool project that could use an extra set of eyes (or hands on the keyboard).
 
-** 💬 Knowledge Sharing:**
+**💬 Knowledge Sharing:**
 
-Ask me anything about Django, Machine Learning, or best practices in web development. I'm always happy to shere what I know!
+Ask me about Django, machine learning, or your web dev woes. Happy to share war stories and lessons learned!
 
 ⚡ **Fun Fact:**
 
-**Bugs don't care me!** I thrive on tackling challenges and finding efficient solutions.
+**Bugs don't care me!**; they keep life spicy.
 
 **Besides coding**, I'm passionate about **exercise** and **math**. I particularly enjoy delving into the intricacies of **integrals, derivatives**, and **complex mathematical calculations**.
+
+> I unwind with math problems. Nothing like a good integral to relax the mind.
 
 ****
 
@@ -135,7 +136,6 @@ I take pride in my accomplishments and contributions in the coding community. He
 
 # 💻 Tech Stack:
 
-
 ### General programming languages
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -164,9 +164,13 @@ I take pride in my accomplishments and contributions in the coding community. He
 
 ### DevOps/Deployment:
 
+<img src="https://img.shields.io/badge/DevSecOps-%231572B6?style=for-the-badge&logo=security&logoColor=white" />
+
 - Cloud Computing Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 - Hosting Platforms and Deployment
 
